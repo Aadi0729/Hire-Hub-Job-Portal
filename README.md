@@ -28,7 +28,7 @@ This project is built with scalability and performance in mind, utilizing modern
 
 ## 💻 Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS for responsive and modern UI.
+- **Frontend**: React.js, Shadcn ui with Vite for responsive and modern UI.
 - **Backend**: Node.js and Express.js for API development and server-side logic.
 - **Database**: MongoDB for storing user data, job listings, and application information.
 - **Authentication**: JWT (JSON Web Tokens) for secure login and user sessions.
