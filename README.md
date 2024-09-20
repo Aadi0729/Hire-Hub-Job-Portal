@@ -98,9 +98,8 @@ This project is built with scalability and performance in mind, utilizing modern
 
 For any questions, suggestions, or collaboration opportunities, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:adityapateriya7986@gmail.com)
-- **GitHub**: [your-github-profile](https://github.com/Aadi0729)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/aditya-pateriya7781/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityapateriya7986@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pateriya7781/)
 
 ---
 
