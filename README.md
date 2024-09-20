@@ -1,6 +1,6 @@
 <h1 align="center">🧑‍💼 Job Portal Website 🚀</h1>
 
-## 🌐 Live Demo : [Check out the live version here!](https://hirehubplatform.onrender.com/)
+# 🌐 Live Demo : [Check out the live version here!](https://hirehubplatform.onrender.com/)
 
 ![Hire Hub Banner](https://github.com/user-attachments/assets/2125516f-2806-494b-ae8e-b094524ca205)
 
