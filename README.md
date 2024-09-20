@@ -1,4 +1,4 @@
-# 🧑‍💼 Job Portal Website
+<h1 align="center">#🧑‍💼 Job Portal Website</h1>
 
 ![Hire Hub Banner](https://github.com/user-attachments/assets/2125516f-2806-494b-ae8e-b094524ca205)
 
@@ -89,6 +89,7 @@ This project is built with scalability and performance in mind, utilizing modern
 ## 🤝 Contributing
 
 🚀 I'm thrilled to share my latest project with you on GitHub! If you find it helpful, inspiring, or just plain awesome, I’d be incredibly grateful if you could ⭐ star the repository! Your support means a lot and motivates me to keep improving and building.
+
 ---
 
 ## 📬 Contact
