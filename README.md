@@ -103,4 +103,4 @@ For any questions, suggestions, or collaboration opportunities, feel free to rea
 
 ---
 
-Thank you for visiting the Job Portal project! We hope this platform helps connect job seekers and employers efficiently.
+Thank you for visiting the Job Portal project! I hope this platform helps connect job seekers and employers efficiently.
