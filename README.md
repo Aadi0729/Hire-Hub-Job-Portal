@@ -1,4 +1,4 @@
-<h1 align="center">#🧑‍💼 Job Portal Website</h1>
+<h1 align="center">🧑‍💼 Job Portal Website</h1>
 
 ![Hire Hub Banner](https://github.com/user-attachments/assets/2125516f-2806-494b-ae8e-b094524ca205)
 
