@@ -54,7 +54,7 @@ const Footer = () => {
 
       {/* Copyright */}
       <div className="text-center mt-8 text-sm">
-        &copy; 2024 Hire Hub. All Rights Reserved.
+        &copy; Aditya Pateriya 2024 Hire Hub. All Rights Reserved.
       </div>
     </footer>
   );
