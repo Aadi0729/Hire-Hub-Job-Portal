@@ -94,7 +94,7 @@ This project is built with scalability and performance in mind, utilizing modern
 
 ---
 
-## 📬 Contact
+## 📬 Contact:
 
 For any questions, suggestions, or collaboration opportunities, feel free to reach out:
 
